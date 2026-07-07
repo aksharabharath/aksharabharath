@@ -5,7 +5,7 @@ Welcome to my research portfolio! I am a sophomore at American High School dedic
 
 ---
 
-## 🔭 What I'm Up To
+##  What I'm Up To
 
 - ** I’m currently working on:** Building a foundational Python machine learning portfolio from scratch, starting with my `exoplanet-density-predictor` and `satellite-pixel-classifier` repositories.
 - ** I’m currently learning:** Core computer science syntax (loops, boolean logic gates, string filtering) through the Foothill-De Anza College District, alongside advanced data table manipulation using `NumPy` and `Pandas`.
