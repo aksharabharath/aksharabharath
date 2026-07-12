@@ -14,7 +14,7 @@ Welcome to my research portfolio! I am a sophomore at American High School dedic
 
 ---
 
-## 🛠️ My Data Science Stack
+## My Data Science Stack
 
 | Category | Tools & Libraries |
 | :--- | :--- |
